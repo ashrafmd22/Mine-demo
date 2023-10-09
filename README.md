@@ -1,2 +1,2 @@
 # Mine-demo
-This is demo
+This is demo.
